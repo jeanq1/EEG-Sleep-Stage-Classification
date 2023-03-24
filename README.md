@@ -5,7 +5,7 @@
 ## Introduction
 
 We propose to use Dreem 2 headband data to perform sleep stage scoring on 30 seconds epochs of biophysiological signals using deep learning techniques.
-This project was done in the context of the Deep Learning course from the MVA master and CentraleSupelec, the final report is available [here](final_report_DL_JQ.pdf).
+This project was done in the context of the Deep Learning course from the MVA master and CentraleSupelec, the final report is available [here](final_report_DL_JQ.pdf). We explore several pre-processing and classification approaches (CNN, LSTM, Transformer) and report the best results.
 
 
 ## Data
